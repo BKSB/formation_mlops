@@ -1,0 +1,7 @@
+# Dépendances minimales pour servir l'API (versions alignées sur celles
+# utilisées pour entraîner/sérialiser model/hgb.joblib)
+scikit-learn==1.9.1
+numpy==2.5.3
+pandas==3.0.6
+joblib==1.6.0
+fastapi[standard]==0.141.1
