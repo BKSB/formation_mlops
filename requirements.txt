@@ -1,0 +1,9 @@
+scikit-learn=1.9.1
+numpy
+scipy
+pandas
+joblib
+jupyterlab
+ipykernel
+matplotlib
+fastapi[standard]
